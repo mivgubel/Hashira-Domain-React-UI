@@ -53,7 +53,7 @@ header{
 
 .right{
   display: flex;
-  background: black;
+  background: rgb(230, 3, 3);
   border-radius: 16px;
   padding: 12px 20px;
   height: 99%;
@@ -62,7 +62,7 @@ header{
 }
 
 .content-container {
-  background-color: #a200d6;
+  background-color: #a81e05;
 }
 
 .cta-button {
@@ -91,20 +91,20 @@ header{
 
 .connect-wallet-button {
   background-image: linear-gradient(
-    to right,
+    to left,
     #ff8177 0%,
     #ff867a 0%,
     #ff8c7f 21%,
-    #f99185 52%,
-    #cf556c 78%,
-    #b12a5b 100%
+    #e64230 52%,
+    #b81130 78%,
+    #970606 100%
   );
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #a200d6, #ff6fdf);
+  background: -webkit-linear-gradient(left, #920101, #f77c18);
   font-size: 18px;
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
@@ -114,7 +114,7 @@ header{
 }
 
 .mint-button:disabled{
-  background: #550072;
+  background: #4b0202;
   color: rgb(209, 209, 209);
   cursor: not-allowed;
 }
@@ -228,7 +228,7 @@ input:focus {
   border-radius: 5px;
   margin: 10px 15px;
   font-size: 18px;
-  background-color: #c4b7fa;
+  background-color: #f5dd70;
   color: black;
   min-width: 150px;
   max-width: fit-content;
@@ -237,15 +237,15 @@ input:focus {
 
 /* Different background-colour for every nth mint-item */
 .mint-item:nth-child(2n) {
-  background-color: lightblue;
+  background-color: rgb(248, 184, 8);
 }
 
 .mint-item:nth-child(3n) {
-  background-color: lightpink;
+  background-color: rgb(172, 5, 30);
 }
 
 .mint-item:nth-child(5n) {
-  background-color: lightgreen;
+  background-color: rgb(17, 168, 17);
 }
 
 .link{
