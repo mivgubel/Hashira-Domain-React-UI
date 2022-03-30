@@ -2,20 +2,10 @@
 
 ### **Welcome 👋**
 
-To get started with this course, clone this repo and follow these commands:
-
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
-
-### What is the `.vscode` Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
-
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!#� �H�a�s�h�i�r�a�-�D�o�m�a�i�n�-�R�e�a�c�t�-�U�I�
-�
-�
+I created this web app with ReactJs to connecto to my contract deploy on the testnet mumbai from polygon for my course of create an ENS in Polygon
 
 MY PROJECT DEPLOY:
 https://hashira-domains.herokuapp.com
+
+![image](https://user-images.githubusercontent.com/51422943/160949580-5d32b8b2-bf71-4129-80e1-83554e1e6ec1.png)
+
